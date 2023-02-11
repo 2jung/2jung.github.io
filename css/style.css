@@ -19,3 +19,7 @@ svg {
   height: 100vh;
   position: absolute;
 }
+
+body {
+  background-color: black;
+}
